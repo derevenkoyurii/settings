@@ -1,0 +1,34 @@
+<scheme name="_@user_Coderpillr Dusk" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2023-08-06T01:01:08</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2023.2.0.0</property>
+    <property name="modified">2023-08-06T01:02:43</property>
+    <property name="originalScheme">Coderpillr Dusk</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6f737a" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+  </colors>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="a6accd" />
+        <option name="BACKGROUND" value="292d3e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

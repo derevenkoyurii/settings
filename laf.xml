@@ -1,0 +1,17 @@
+<application>
+  <component name="LafManager" autodetect="false">
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="GITHUB_DARK" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Coderpillr Dusk" scheme="_@user_Coderpillr Dusk" />
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
+      <laf-to-scheme laf="GitHub Dark (Material)" scheme="_@user_Default" />
+      <laf-to-scheme laf="GitHub Dark Dimmed" scheme="_@user_GitHub Dark Dimmed" />
+      <laf-to-scheme laf="GitHub Dark Experimental" scheme="_@user_GitHub Dark Experimental" />
+      <laf-to-scheme laf="GitHub Dark High Contrast" scheme="_@user_GitHub Dark High Contrast" />
+      <laf-to-scheme laf="GitHub Light" scheme="_@user_GitHub Light" />
+      <laf-to-scheme laf="NotReallyMDTheme" scheme="_@user_Material dark-Theme" />
+      <laf-to-scheme laf="OneDarkMonokai" scheme="_@user_Monokai Adapted" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>
